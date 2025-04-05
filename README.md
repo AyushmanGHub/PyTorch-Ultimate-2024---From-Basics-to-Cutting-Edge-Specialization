@@ -1,1 +1,1 @@
-# PyTorch-Ultimate-2024---From-Basics-to-Cutting-Edge-Specialization
+# PyTorch Ultimate 2024 - From Basics to Cutting-Edge Specialization
