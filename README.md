@@ -19,6 +19,25 @@ The **PyTorch Ultimate 2024 - From Basics to Cutting-Edge** is a 3-course specia
 -   Data preprocessing, batch processing, and dataloaders
 
 ---
+## 📘 Course 3: Advanced PyTorch Techniques and Applications
+
+The final course focuses on advanced architectures, real-world applications, and deployment. Learners explore GNNs, Transformers, GANs, model debugging, and cloud deployment.
+
+### Modules:
+
+-   Recommender Systems
+-   Autoencoders
+-   Generative Adversarial Networks (GANs)
+-   Graph Neural Networks (GNNs)
+-   Transformers & Vision Transformers
+-   PyTorch Lightning
+-   Semi-Supervised Learning
+-   Natural Language Processing (NLP)
+-   Miscellaneous Advanced Topics
+-   Model Debugging with Hooks
+-   Model Deployment (Flask, GCP)
+-   Final Summary and Resources
+
 
 ## 🔗 Resources
 
