@@ -8,7 +8,6 @@ The **PyTorch Ultimate 2024 - From Basics to Cutting-Edge** is a 3-course specia
 ---
 
 ## 🛠️ Skills Gained
-
 -   PyTorch fundamentals and tensor operations
 -   Neural network design and training
 -   Image, audio, and object classification using CNNs
@@ -20,11 +19,9 @@ The **PyTorch Ultimate 2024 - From Basics to Cutting-Edge** is a 3-course specia
 
 ---
 ## 📘 Course 1: Foundations and Core Concepts of PyTorch
-
 This course lays the groundwork for deep learning in PyTorch by covering fundamental AI/ML concepts and exploring core PyTorch features like tensors and neural networks.
 
 ### Modules:
-
 -   Course Overview and System Setup
 -   Machine Learning Basics
 -   Deep Learning Introduction
@@ -32,12 +29,12 @@ This course lays the groundwork for deep learning in PyTorch by covering fundame
 -   Neural Network from Scratch
 -   Tensors
 -   PyTorch Modeling Introduction
-## 📘 Course 2: Building and Training Neural Networks with PyTorch
 
+  
+## 📘 Course 2: Building and Training Neural Networks with PyTorch
 This intermediate course dives into neural network architectures, classification models, CNNs, and style transfer, offering hands-on training with real-world tasks.
 
 ### Modules:
-
 -   Classification Models
 -   CNN for Image Classification
 -   CNN for Audio Classification
@@ -48,11 +45,9 @@ This intermediate course dives into neural network architectures, classification
 
 
 ## 📘 Course 3: Advanced PyTorch Techniques and Applications
-
 The final course focuses on advanced architectures, real-world applications, and deployment. Learners explore GNNs, Transformers, GANs, model debugging, and cloud deployment.
 
 ### Modules:
-
 -   Recommender Systems
 -   Autoencoders
 -   Generative Adversarial Networks (GANs)
@@ -68,13 +63,11 @@ The final course focuses on advanced architectures, real-world applications, and
 
 
 ## 🔗 Resources
-
 -   [Coursera Specialization Link](https://www.coursera.org/specializations/packt-pytorch-ultimate-2024---from-basics-to-cutting-edge)
 -   [PyTorch Official Documentation](https://pytorch.org/docs/stable/index.html)
 -   [Packt Publishing](https://www.packtpub.com/)
+  
 ---
 ## Hope it Helps You in Understanding PyTorch and Deep Learning
-
 ### This contains Codes, Class Notes, and Datasets from the `PyTorch Ultimate 2024 - From Basics to Cutting-Edge` Specialization on Coursera by Packt.
-
 ### All of these are also available on the Coursera platform. All the above resources are created and provided by Packt Publishing.
