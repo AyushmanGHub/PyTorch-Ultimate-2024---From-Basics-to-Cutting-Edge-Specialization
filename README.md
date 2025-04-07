@@ -30,7 +30,7 @@ This course lays the groundwork for deep learning in PyTorch by covering fundame
 -   Tensors
 -   PyTorch Modeling Introduction
 
-  
+---
 ## 📘 Course 2: Building and Training Neural Networks with PyTorch
 This intermediate course dives into neural network architectures, classification models, CNNs, and style transfer, offering hands-on training with real-world tasks.
 
@@ -43,7 +43,7 @@ This intermediate course dives into neural network architectures, classification
 -   Pre-Trained Networks and Transfer Learning
 -   Recurrent Neural Networks (RNNs & LSTMs)
 
-
+---
 ## 📘 Course 3: Advanced PyTorch Techniques and Applications
 The final course focuses on advanced architectures, real-world applications, and deployment. Learners explore GNNs, Transformers, GANs, model debugging, and cloud deployment.
 
@@ -61,7 +61,7 @@ The final course focuses on advanced architectures, real-world applications, and
 -   Model Deployment (Flask, GCP)
 -   Final Summary and Resources
 
-
+---
 ## 🔗 Resources
 -   [Coursera Specialization Link](https://www.coursera.org/specializations/packt-pytorch-ultimate-2024---from-basics-to-cutting-edge)
 -   [PyTorch Official Documentation](https://pytorch.org/docs/stable/index.html)
