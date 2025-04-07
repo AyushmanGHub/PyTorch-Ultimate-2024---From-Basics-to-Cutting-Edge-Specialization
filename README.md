@@ -19,6 +19,21 @@ The **PyTorch Ultimate 2024 - From Basics to Cutting-Edge** is a 3-course specia
 -   Data preprocessing, batch processing, and dataloaders
 
 ---
+## 📘 Course 2: Building and Training Neural Networks with PyTorch
+
+This intermediate course dives into neural network architectures, classification models, CNNs, and style transfer, offering hands-on training with real-world tasks.
+
+### Modules:
+
+-   Classification Models
+-   CNN for Image Classification
+-   CNN for Audio Classification
+-   CNN for Object Detection
+-   Neural Style Transfer
+-   Pre-Trained Networks and Transfer Learning
+-   Recurrent Neural Networks (RNNs & LSTMs)
+
+
 ## 📘 Course 3: Advanced PyTorch Techniques and Applications
 
 The final course focuses on advanced architectures, real-world applications, and deployment. Learners explore GNNs, Transformers, GANs, model debugging, and cloud deployment.
