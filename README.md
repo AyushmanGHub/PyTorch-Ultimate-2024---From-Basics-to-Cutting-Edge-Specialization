@@ -19,6 +19,19 @@ The **PyTorch Ultimate 2024 - From Basics to Cutting-Edge** is a 3-course specia
 -   Data preprocessing, batch processing, and dataloaders
 
 ---
+## 📘 Course 1: Foundations and Core Concepts of PyTorch
+
+This course lays the groundwork for deep learning in PyTorch by covering fundamental AI/ML concepts and exploring core PyTorch features like tensors and neural networks.
+
+### Modules:
+
+-   Course Overview and System Setup
+-   Machine Learning Basics
+-   Deep Learning Introduction
+-   Model Evaluation
+-   Neural Network from Scratch
+-   Tensors
+-   PyTorch Modeling Introduction
 ## 📘 Course 2: Building and Training Neural Networks with PyTorch
 
 This intermediate course dives into neural network architectures, classification models, CNNs, and style transfer, offering hands-on training with real-world tasks.
