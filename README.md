@@ -5,7 +5,7 @@ The **PyTorch Ultimate 2024 - From Basics to Cutting-Edge** is a 3-course specia
 
 👉 [View Specialization on Coursera](https://www.coursera.org/specializations/packt-pytorch-ultimate-2024---from-basics-to-cutting-edge)
 
-------------------------------------------------------------------------
+---
 
 ## 🛠️ Skills Gained
 
@@ -18,18 +18,7 @@ The **PyTorch Ultimate 2024 - From Basics to Cutting-Edge** is a 3-course specia
 -   Model evaluation, debugging, and deployment
 -   Data preprocessing, batch processing, and dataloaders
 
-------------------------------------------------------------------------
-
-## 👤 Target Audience
-
-This specialization is ideal for:
-
--   Data Scientists and Machine Learning Engineers
--   AI Enthusiasts with Python and ML background
--   Professionals seeking hands-on PyTorch expertise
--   Learners progressing from beginner to advanced DL topics
-
-------------------------------------------------------------------------
+---
 
 ## 🔗 Resources
 
